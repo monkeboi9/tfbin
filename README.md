@@ -18,7 +18,7 @@ When converting a binary number to decimal the minimum and maximum values are de
 > [!note]
 > While you can input numbers that are not 1 or 0 I am not sure what the output would be
 ## Compilation
-Using the 'make' program compiling the program is as simple as one command:
+Using the 'make' program, compiling the program is as simple as one command:
 ```
 $ make
 ```

@@ -22,4 +22,4 @@ Using the 'make' program, compilation is as simple as one command:
 ```
 $ make
 ```
-This program has no dependencies that I know of.
+This program has no dependencies that I know of lol.

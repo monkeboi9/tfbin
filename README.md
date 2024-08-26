@@ -11,9 +11,15 @@ To convert a binary number to decimal:
 tfbin from <input>
 ```
 ## Inputs
-##### Decimal to Binary
+#### Decimal to Binary
 When converting a decimal number to a binary number the input can neither exede 2^16 nor be under 0. You can change the maximum input value by editing the 'tobin.c' file and recompiling the program.
-##### Binary to Decimal
+#### Binary to Decimal
 When converting a binary number to decimal the minimum and maximum values are definied by LLONG_MIN and LLONG_MAX.
 > [!note]
 > While you can input numbers that are not 1 or 0 I am not sure what the output would be
+## Compilation
+Using the 'make' program compiling the program is as simple as one command:
+```
+$ make
+```
+This program has no dependencies that I know of.
